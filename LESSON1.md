@@ -25,3 +25,5 @@ char1 = input("enter chracter: ")
 asii = ord(char1)
 print("*******************************")
 print(f"The asii value of {char1} is {asii}.")
+
+
